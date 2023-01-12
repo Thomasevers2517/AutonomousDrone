@@ -6,6 +6,7 @@ The instructions for this can be found on the following page https://www.bitcraz
 
 Additionally pyGame will need to be installed, which can be done by using the command pip install pygame
 
+ ![alt text](report/graph.png "Title")
 
 ## Code
 The codebase contains the following files.
