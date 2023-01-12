@@ -37,7 +37,7 @@ and scans the environment before it recalculates the path. \
 
 
 ## Support
-felix.agner@control.lth.se
+thomasevers9@gmail.com
 
 ## Contributing
 Please feel free to improve this as future projects happen at the department.
@@ -46,4 +46,4 @@ Please feel free to improve this as future projects happen at the department.
 MIT-license.
 
 ## Project status
-The project is mostly updated when courses using the robots are ongoing.
+Not Active
