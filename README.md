@@ -34,3 +34,16 @@ it deletes all nodes before this later node. \
 -When the drone detects an object in proximity, it avoids it, 
 and scans the environment before it recalculates the path. \
 
+
+
+## Support
+felix.agner@control.lth.se
+
+## Contributing
+Please feel free to improve this as future projects happen at the department.
+
+## License
+MIT-license.
+
+## Project status
+The project is mostly updated when courses using the robots are ongoing.
