@@ -7,10 +7,10 @@ The instructions for this can be found on the following page https://www.bitcraz
 Additionally pyGame will need to be installed, which can be done by using the command pip install pygame
 
 
-##Code
+## Code
 The codebase contains the following files.
 
-#MotioncommanderTest.py
+# MotioncommanderTest.py
 MotioncommanderTest.py contains a simple testing code which was taking from https://github.com/bitcraze/crazyflie-lib-python/tree/master/examples
 It simply tests the hardware and runs a simple preset routine for the drone.
 
