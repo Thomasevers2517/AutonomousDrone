@@ -1,7 +1,7 @@
 # Autonomous Drone Project
 
 
- ![alt text](DecentPathCreation.png "Live GUI representation of Drone Path")
+ ![alt text](AutoDroneHeader.png "Live GUI representation of Drone Path")
 
 ## Dependancies
 For this project the CrazyFlie Library will need to be installed. 
