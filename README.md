@@ -7,7 +7,7 @@
 For this project the CrazyFlie Library will need to be installed. 
 The instructions for this can be found on the following page https://www.bitcraze.io/documentation/repository/crazyflie-clients-python/master/installation/install/
 
-Additionally pyGame will need to be installed, which can be done by using the command \ 
+Additionally pyGame will need to be installed, which can be done by using the command 
 "pip install pygame"
 
 ## Code
