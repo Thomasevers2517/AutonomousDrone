@@ -1,12 +1,13 @@
 # Autonomous Drone Project
 
+
+ ![alt text](DecentPathCreation.png "Live GUI representation of Drone Path")
+
 ## Dependancies
 For this project the CrazyFlie Library will need to be installed. 
 The instructions for this can be found on the following page https://www.bitcraze.io/documentation/repository/crazyflie-clients-python/master/installation/install/
 
 Additionally pyGame will need to be installed, which can be done by using the command pip install pygame
-
- ![alt text](DecentPathCreation.png "Live GUI representation of Drone Path")
 
 ## Code
 The codebase contains the following files.
