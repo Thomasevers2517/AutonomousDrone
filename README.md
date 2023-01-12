@@ -26,11 +26,11 @@ This version also contains a manual control mode.
 
 This is an improved version of the a* implementation. The following changes were made.
 
--RRT* was used to plan the path /n
--The path is smoothed out /n
--The drone follows the path forward facing as to detect objects in its line of motion /n
+-RRT* was used to plan the path \
+-The path is smoothed out \
+-The drone follows the path forward facing as to detect objects in its line of motion \
 -When the drone misses the next node in its path but is detected to have reached a later node, 
-it deletes all nodes before this later node. /n
+it deletes all nodes before this later node. \
 -When the drone detects an object in proximity, it avoids it, 
-and scans the environment before it recalculates the path. /n
+and scans the environment before it recalculates the path. \
 
