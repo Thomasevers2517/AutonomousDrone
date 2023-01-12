@@ -14,7 +14,7 @@ The codebase contains the following files.
 MotioncommanderTest.py contains a simple testing code which was taking from https://github.com/bitcraze/crazyflie-lib-python/tree/master/examples
 It simply tests the hardware and runs a simple preset routine for the drone.
 
-### A star Implementation
+### AstarImplementation.py
 This version uses an a star algorithm to plan a path for the drone. 
 It contains a fully functioning GUI that presents the drones location relative to a pointcloud based on the multiranger data.
 The user will be able to select a location on the screen and a* will be used to find the fastest path towards it.
@@ -22,7 +22,11 @@ The drone will then execute this path by being instructed to visit each node unt
 When an the drone is close to an obstacle it avoids it and recalculates the path.
 This version also contains a manual control mode.
 
-### RRT star implementation
+### RRT-RRTStar-Test.py
+A script that only contains the RRT Star Algorithm to test it and run it under different configurations, without actually activating the drone.
+The algorithm was originally taken from https://gist.github.com/Fnjn/58e5eaa27a3dc004c3526ea82a92de80 , but adaptations were made to make the algorithm aproximately 15 times faster. 
+
+### RRTstarImplementation.py
 
 This is an improved version of the a* implementation. The following changes were made.
 
